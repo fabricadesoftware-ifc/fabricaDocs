@@ -1,0 +1,14 @@
+title: FabricaDocs
+# email: voce@example.com
+description: >-
+  Padrões de Documentação dos Projetos da Fábrica de Software.
+
+theme: jekyll-theme-cayman
+
+# twitter_username: seuusuario
+# github_username: seuusuario
+# linkedin_username: seuusuario
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
