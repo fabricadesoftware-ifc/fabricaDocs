@@ -1,0 +1,35 @@
+site_name: Fábrica Docs
+docs_dir: docs
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: orange
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+nav:
+  - Introdução: index.md
+  - OnBoarding: onboarding.md
+  - Dicas: tips.md
+  - Boas Práticas: best-practices.md
+  - Começando um novo projeto: create-project.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+
+extra:
+  generator: false
