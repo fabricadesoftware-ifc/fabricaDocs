@@ -4,7 +4,8 @@ Este portal tem como objetivo centralizar e organizar as informações da Fábri
 
 ### 📬 **Contato e Canais de Comunicação**
 
-- Email do Coordenador: fabio.moura@ifc.edu.br
+- Coordenador da Fábrica de Software: [Prof. Fábio Longo de Moura](https://github.com/ldmfabio)
+- Email da Fábrica de Software: [fabricadesoftware.araquari@ifc.edu.br](mailto:fabricadesoftware.araquari@ifc.edu.br)
 - Site da Fábrica: [fabricadesoftware.ifc.edu.br](http://www.fabricadesoftware.ifc.edu.br)
 - LinkedIn da Fábrica: [Fábrica de Software](https://www.linkedin.com/company/fabricadesoftware-ifc/)
 - Organização no GitHub: [Fábrica de Software](https://github.com/fabricadesoftware-ifc)
