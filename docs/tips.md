@@ -62,10 +62,10 @@ Este guia foi criado para ajudar você na sua jornada como programador e desenvo
 ## **Podcasts Recomendados**
 
 - [**Hipsters Ponto Tech**](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=cb5164a633834cdf) - Podcast da Alura sobre tecnologia
-- [**PodProgramar**](https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP?si=c9e3976427c3477d) - Podcast sobre desenvolvimento de software
-- [**DevNaEstrada**](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9?si=15b2a71daac24f14) - Entrevistas e discussões sobre carreira em tecnologia
-- [**Lambda3**](https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya?si=8bfab913c8f74281) - Discussões sobre desenvolvimento de software e tecnologia
-- [**Área de Transferência**](https://open.spotify.com/show/6w9Fcpu5argDMKw73eigwj?si=bff414fc98414924) - Podcast sobre tecnologia e cultura digital
+- [**IA Sob Controle**](https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP?si=c9e3976427c3477d) - Podcast sobre inteligência artificial
+- [**Escovando Bits**](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9?si=15b2a71daac24f14) - Entrevistas e discussões sobre carreira em tecnologia
+- [**Papinho Tech**](https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya?si=8bfab913c8f74281) - Discussões sobre desenvolvimento de software e tecnologia
+- [**Akitando**](https://open.spotify.com/show/6w9Fcpu5argDMKw73eigwj?si=bff414fc98414924) - Podcast sobre tecnologia e cultura digital
 
 ---
 
