@@ -21,6 +21,9 @@ nav:
   - Dicas: tips.md
   - Boas Práticas: best-practices.md
   - Começando um novo projeto: create-project.md
+  - Padrões de Projeto:
+      - Criando um Projeto Django: init-back.md
+      - Criando um Projeto Vue: init-vue.md
 
 markdown_extensions:
   - admonition
